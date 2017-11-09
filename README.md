@@ -11,6 +11,8 @@ Scrollbar UI used to append the list, and each item upon clicking displays a pan
 
 Technologies Used:
 
-Unity UI
-UnityWebRequest
-SimpleJSON
+-Unity UI
+
+-UnityWebRequest
+
+-SimpleJSON
